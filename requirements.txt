@@ -1,0 +1,8 @@
+numpy
+torch
+matplotlib
+pandas
+pytest
+jupyter
+pygame
+streamlit
